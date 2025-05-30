@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.MyApplication" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/custom_text_color</item>
+        <item name="colorPrimaryDark">@color/custom_text_color</item>
+        <item name="colorAccent">@color/button_color</item>
+    </style>
+    <style name="btn_style1">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
